@@ -1,4 +1,4 @@
-
+export const dynamic = 'force-dynamic'
 
 import Container from "@/app/Components/Container";
 import ListingCard from "@/app/Components/listings/ListingCard";
